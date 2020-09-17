@@ -1,5 +1,5 @@
 {
-    "name": "unifik/database-config-bundle",
+    "name": "certunlp/database-config-bundle",
     "type": "symfony-bundle",
     "description": "Allows management of Symfony's container configuration from the database",
     "keywords": ["unifik", "symfony", "database", "container", "config"],
@@ -13,10 +13,14 @@
         {
             "name": "Frédéric Hamelin",
             "email": "fredhamelin91@gmail.com"
+        },
+        {
+            "name": "CERT UNLP",
+            "email": "support@cert.unlp.edu.ar"
         }
     ],
     "require": {
-        "symfony/symfony": "~2.1"
+        "symfony/symfony": "3.4.*"
     },
     "autoload": {
         "psr-0": { "Unifik\\DatabaseConfigBundle": "" }
