@@ -24,6 +24,5 @@
     },
     "autoload": {
         "psr-0": { "Unifik\\DatabaseConfigBundle": "" }
-    },
-    "target-dir": "Unifik/DatabaseConfigBundle"
+    }
 }
